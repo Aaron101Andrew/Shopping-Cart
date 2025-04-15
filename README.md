@@ -1,5 +1,5 @@
 # Flutter SHOPPING-CART
-This shopping app comes with 100+ screens. Some of these pages are Login, Signup, Home, Product, Search, Cart, Profile, Payment, Wallet, Order Tracking, and Order History. Additionally, all pages support both light and dark themes.You just need to connect the UI to your preferred backend, such as Firebase, WordPress, or your custom API. 
+This IS Flutter SHOPPING app comes with 100+ screens. Some of these pages are Login, Signup, Home, Product, Search, Cart, Profile, Payment, Wallet, Order Tracking, and Order History. Additionally, all pages support both light and dark themes.You just need to connect the UI to your preferred backend, such as Firebase, WordPress, or your custom API. 
 ![Device_frame](https://github.com/user-attachments/assets/080f5776-1bef-411b-9359-4e07b48e7b10)
 Screenns on Shopping Cart E-commerce Template
 As mentioned, this kit contains 100+ nicely crafted minimal screens that cover everything you need!👇
