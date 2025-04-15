@@ -4,7 +4,7 @@ This shopping app comes with 100+ screens. Some of these pages are Login, Signup
 Screenns on Shopping Cart E-commerce Template
 As mentioned, this kit contains 100+ nicely crafted minimal screens that cover everything you need!👇
 
-Onboarding
+ONBOARDING;
 Onboarding Choose item
 Onboarding Add to cart
 Onboarding Pay online
@@ -12,7 +12,7 @@ Onboarding Track order
 Onboarding Find store
 Notification permission
 Select language
-Authentication
+AUTHENTICATION
 Log in
 Forgot password
 Choose verification method
